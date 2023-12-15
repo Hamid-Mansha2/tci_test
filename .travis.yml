@@ -2,7 +2,6 @@ arch: amd64
 os: linux
 dist: focal
 
-sudo: required
 
 language: php
 
